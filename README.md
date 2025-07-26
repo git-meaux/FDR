@@ -2,7 +2,6 @@
 
 
 ### Description
+**Facebook Distraction Remover** is a Firefox add-on that declutters the Facebook experience. I got annoyed by suggested profiles and pages and got fed up to create this addon for removing them from the Facebook feed. 
 
-**Facebook Distraction Remover** is a Firefox add-on that declutters your Facebook experience by removing suggested profiles and pages from your Facebook feed. 
-
-You can focus on what matters and enjoy Facebook again.
+With the add-on it's a bit less annoying.

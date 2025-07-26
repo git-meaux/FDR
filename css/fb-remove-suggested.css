@@ -1,0 +1,13 @@
+/*-------- Hide suggested page/profile --------*/
+div.x1lliihq:has(h4 [role="button"]) {
+    display: none;
+}
+
+/*-------- Hide carousels --------*/
+/* also selects shared videos - need to debug
+
+div.x1lliihq:has(div>[data-type="hscroll-child"]) {
+    outline: solid 2px red; 
+}
+
+*/

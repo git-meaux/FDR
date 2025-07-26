@@ -1,0 +1,21 @@
+/*-------- Alter FB Logo --------*/
+[role="banner"] {
+    background: rgba(250,0,0,0.2);
+
+    >div:first-child {
+        display: relative;
+        
+        &::before {
+            content: '';
+            display: block;
+            position: absolute;
+            z-index: 100;
+            width: 100%;
+            aspect-ratio: 1;       
+            background-image: url("../icons/fb_sparkle.svg");
+            background-position: center;
+            background-size: cover;     
+        }
+    }
+}
+
